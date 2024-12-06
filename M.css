@@ -1,0 +1,18 @@
+cat{
+    background-color: rgb(68, 19, 184);
+    color: bisque;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: blue;
+    background-color: chocolate;
+    width: 399px;
+    height: 60px;
+}
+body{
+    background-color: black;
+    text-decoration: dashed;
+    color: black;
+}
